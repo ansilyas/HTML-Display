@@ -1,0 +1,15 @@
+body{
+    background-color: pink;
+}
+.box ul li{
+/* display: inline;    keep them in straight line */
+display: inline-block;
+margin-top: 20px;   /*it dose not take space from top or bottom*/
+margin-left: 20px;
+border:5px solid lightgreen;
+padding-left: 20px;
+}
+.box2 h2{
+    display: none;  /* display none leave the space or hidde*/
+    /* visibility: hidden;     it only hidde the information */
+}
